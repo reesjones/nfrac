@@ -19,6 +19,11 @@ roots = {}
 #tolerance = complex(.001, 0)
 tolerance = .001
 
+
+
+
+
+
 # Graphics Variables
 ####################
 
@@ -173,5 +178,4 @@ print("==========")
 #for x in range(len(img)):
 #	for y in range(len(img[0])):
 #		print img[x][y] == -5.0
-
 
